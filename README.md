@@ -92,33 +92,43 @@
 	
   19、如何添加、移除、查找、创建、复制节点；
   
+  20、写一个数组去重的方法；
+  
+  21、谈一谈JavaScript作用域链；
+  
 
 三、Ajax
 
-  1、简述ajax的原理；
+  1、什么是Ajax，为什么要使用ajax？
+  
+  2、简述ajax的原理；
+  
+  3、请介绍一下XMLHttpRequest对象；
+  
+  4、介绍一下XMLHttpRequest对象的常用属性和方法；
+  
+  5、XMLHttpRequest对象在IE和Firefox中创建方式有什么不同；
+  
+  6、说说ajax的优缺点；
 	
-  2、什么是XMLHttpRequest对象；
+  7、说说get和post请求的区别；
 	
-  3、说说ajax的优缺点；
+  8、简述jsonp的原理；
 	
-  3、说说get和post请求的区别；
+  9、如何解决跨域问题？
 	
-  4、简述jsonp的原理；
+  10、什么是同源策略；
 	
-  5、如何解决跨域问题？
+  11、常见的http状态码有哪些？
 	
-  6、什么是同源策略；
-	
-  7、常见的http状态码有哪些？
-	
-  8、一个页面从输入URL到页面加载完成，这个过程都发生了什么？
+  12、一个页面从输入URL到页面加载完成，这个过程都发生了什么？
   
 
 四、jQuery
 
   1、jQuery有哪些优势；
 	
-  2、window.onload与$(document).ready的区别；
+  2、window.onload与$(document).ready()的区别；
 	
   3、请指出.get()、[]、.eq()的区别；
 	
@@ -129,8 +139,21 @@
   6、如何解决jQuery与其他库冲突问题；
 	
   7、jquery.extend与jquery.fn.extend的区别；
-  
-
+  
+  8、如何规范化写jQuery插件；
+  
+  9、你在使用jQuery过程中遇到过哪些问题，如何解决的？
+  
+  10、jQuery对象和DOM对象如何进行转化；
+  
+  11、你是如何使用jQuery中的ajax的？
+  
+  12、你使用过哪些数据格式，它们各有什么特点？
+  
+  13、在jQuery中你有没有写过插件，插件有什么好处？在编写插件过程中，有哪些需注意的地方？
+  
+  14、当CDN上的jQuery文件不可用时，该怎么办？
+  
 五、移动端
 
   1、移动端的图片优化有哪些方式？
