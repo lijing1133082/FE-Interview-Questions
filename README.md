@@ -100,8 +100,8 @@
 三、Ajax
 
   1、什么是Ajax，为什么要使用ajax？
-  
-  2、简述ajax的原理；
+  
+  2、简述Ajax的原理；
   
   3、请介绍一下XMLHttpRequest对象；
   
@@ -109,7 +109,7 @@
   
   5、XMLHttpRequest对象在IE和Firefox中创建方式有什么不同；
   
-  6、说说ajax的优缺点；
+  6、说说Ajax的优缺点；
 	
   7、说说get和post请求的区别；
 	
@@ -146,7 +146,7 @@
   
   10、jQuery对象和DOM对象如何进行转化；
   
-  11、你是如何使用jQuery中的ajax的？
+  11、你是如何使用jQuery中的Ajax的？
   
   12、你使用过哪些数据格式，它们各有什么特点？
   
@@ -170,3 +170,4 @@
   
   7、什么是DPR？
   
+  8、
